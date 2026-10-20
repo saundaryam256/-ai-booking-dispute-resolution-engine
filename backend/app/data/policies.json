@@ -1,0 +1,38 @@
+[
+  {
+    "id": "POL-AMENITY-01",
+    "title": "Advertised amenity unavailable",
+    "category": "amenity_failure",
+    "text": "When a material amenity explicitly advertised for a booking is unavailable, review evidence of the listing promise, the outage, and the impact on use. A remedy may be considered only when the mismatch and material impact are supported. This policy does not specify a fixed refund percentage."
+  },
+  {
+    "id": "POL-ACCESS-01",
+    "title": "Reserved space inaccessible",
+    "category": "access_failure",
+    "text": "If a customer cannot access a confirmed reserved space, compare reservation records and access evidence from both parties. A confirmed denial that prevents use supports a full refund review; conflicting or absent access records require human review."
+  },
+  {
+    "id": "POL-CANCEL-01",
+    "title": "Late cancellation",
+    "category": "cancellation",
+    "text": "Apply the cancellation terms shown at booking time. The terms and cancellation timestamp must be available before deciding eligibility. If either is missing or disputed, do not infer a refund amount; request evidence and use human review."
+  },
+  {
+    "id": "POL-DAMAGE-01",
+    "title": "Property damage allegation",
+    "category": "property_damage",
+    "text": "A damage allegation requires comparable condition evidence from before and after the booking, plus a link to the booking. An unsupported allegation is not a verified fact and must not justify a charge or denial of refund. Refer unresolved cases for human review."
+  },
+  {
+    "id": "POL-NOISE-01",
+    "title": "Noise or disruption",
+    "category": "noise",
+    "text": "Assess contemporaneous evidence of noise, the listing's advertised environment, and the effect on the booked service. A complaint alone does not establish a violation. If evidence is inconclusive, request additional evidence and use human review."
+  },
+  {
+    "id": "POL-EVIDENCE-01",
+    "title": "Evidence and uncertainty standard",
+    "category": "general",
+    "text": "Keep customer allegations, owner allegations, verified booking facts, and unknown information separate. Do not present unsupported claims as verified. Where material evidence is missing or contradictory, recommend manual investigation rather than inventing a policy rule or decisive fact."
+  }
+]

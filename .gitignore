@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+backend/.env
+backend/disputes.db
+backend/*.db-shm
+backend/*.db-wal
+**/.env
+**/.env.*
+!**/.env.example
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,18 @@
+{
+  "name": "ai-booking-dispute-engine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node ./node_modules/vite/bin/vite.js",
+    "build": "node ./node_modules/vite/bin/vite.js build"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "4.4.1",
+    "vite": "6.4.4",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "lucide-react": "0.468.0"
+  },
+  "devDependencies": {}
+}

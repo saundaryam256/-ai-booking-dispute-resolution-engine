@@ -1,0 +1,62 @@
+[
+  {
+    "booking_id": "BK-20481",
+    "booking_amount": 180,
+    "currency": "INR",
+    "listing_name": "Harbor Studio - Meeting Room",
+    "advertised_amenities": ["4K projector", "whiteboard", "video conferencing"],
+    "customer_complaint": "The advertised projector would not turn on during our client presentation. We used the whiteboard instead and lost time troubleshooting.",
+    "owner_statement": "The projector was working during my check the previous evening. I was not contacted during the booking.",
+    "booking_details": "Meeting room booked for 3 hours on 2026-10-14, 09:00-12:00. Reservation is recorded in the marketplace.",
+    "cancellation_details": "",
+    "evidence_references": ["Listing snapshot includes projector amenity; customer supplied a photo of the projector error screen."]
+  },
+  {
+    "booking_id": "BK-20492",
+    "booking_amount": 420,
+    "currency": "INR",
+    "listing_name": "Juniper Private Cabin 3B",
+    "advertised_amenities": ["Private lockable cabin", "24/7 building access", "desk"],
+    "customer_complaint": "My access code did not work and reception could not locate the cabin reservation. I could not enter for the whole booked day.",
+    "owner_statement": "The booking appears in my calendar, but I do not have an access log for that date.",
+    "booking_details": "Private cabin reserved for a full day on 2026-10-12. Booking confirmation is available.",
+    "cancellation_details": "",
+    "evidence_references": ["Booking confirmation; customer screenshot of access error. No building access log supplied."]
+  },
+  {
+    "booking_id": "BK-20503",
+    "booking_amount": 95,
+    "currency": "INR",
+    "listing_name": "North Loop Focus Desk",
+    "advertised_amenities": ["Dedicated desk", "Wi-Fi"],
+    "customer_complaint": "I cancelled 30 minutes before the booking because my plans changed. I believe I should receive a refund.",
+    "owner_statement": "The desk was held and unavailable to other customers. I do not know which cancellation terms were shown.",
+    "booking_details": "Desk reserved for 2026-10-18, 13:00-17:00. Cancellation recorded at 12:30.",
+    "cancellation_details": "Cancellation timestamp is recorded, but the terms presented at booking are not attached.",
+    "evidence_references": ["Marketplace reservation and cancellation timestamps."]
+  },
+  {
+    "booking_id": "BK-20514",
+    "booking_amount": 260,
+    "currency": "INR",
+    "listing_name": "Foundry Meeting Suite",
+    "advertised_amenities": ["Conference table", "display screen", "six chairs"],
+    "customer_complaint": "The room was left in normal condition. I dispute responsibility for the reported chair damage.",
+    "owner_statement": "One chair was damaged after this booking. I believe the customer caused it, but I did not take a pre-booking photo.",
+    "booking_details": "Meeting suite booked for 2026-10-16, 14:00-18:00. Reservation is confirmed.",
+    "cancellation_details": "",
+    "evidence_references": ["Owner supplied a photo taken after the booking; no before-booking condition report."]
+  },
+  {
+    "booking_id": "BK-20525",
+    "booking_amount": 140,
+    "currency": "INR",
+    "listing_name": "Cedar Commons Collaboration Room",
+    "advertised_amenities": ["Collaboration room", "Wi-Fi", "shared lounge access"],
+    "customer_complaint": "Loud construction noise next door disrupted our scheduled calls for about an hour.",
+    "owner_statement": "There was maintenance in the neighboring unit, but I do not know how loud it was inside the room.",
+    "booking_details": "Collaboration room booked for 2026-10-17, 10:00-12:00. Reservation is confirmed.",
+    "cancellation_details": "",
+    "evidence_references": ["Customer reports the incident; no audio, maintenance notice, or contemporaneous report supplied."]
+  }
+]
